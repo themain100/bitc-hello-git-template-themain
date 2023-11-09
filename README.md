@@ -1,0 +1,1 @@
+# bitc-hello-git-template-themain
